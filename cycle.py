@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 
 
+
 def get_cycle():
     return "2407"
 
